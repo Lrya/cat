@@ -54,7 +54,7 @@
 | backgroundColor | `0xeeeeee`             | 背景颜色                            |
 | parent          | `catch-the-cat`        | 父元素的 id 或 DOM 对象             |
 | statusBarAlign  | `center`               | 状态栏左对齐 `left` 或居中 `center` |
-| credit          | `github.com/ganlvtech` | 右下角的备注信息                    |
+| credit          | `github.com/lrya`      | 右下角的备注信息                    |
 
 ## 自己编写算法
 
