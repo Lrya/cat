@@ -33,7 +33,7 @@ declare type CatchTheCatGameConfig = {
 /*!
  * Catch The Cat Game
  *
- * https://github.com/ganlvtech/phaser-catch-the-cat
+ * https://github.com/Lrya/cat
  */
 export default class CatchTheCatGame extends Phaser.Game {
     public readonly mainScene: MainScene;
@@ -41,7 +41,7 @@ export default class CatchTheCatGame extends Phaser.Game {
 
     constructor(config: CatchTheCatGameConfig) {
         if (!config.credit) {
-            config.credit = "github.com/ganlvtech";
+            config.credit = "Ryan";
         }
         if (!config.backgroundColor) {
             config.backgroundColor = 0xeeeeee;
