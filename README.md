@@ -34,7 +34,7 @@
         backgroundColor: 0xeeeeee,
         parent: 'catch-the-cat',
         statusBarAlign: 'center',
-        credit: 'github.com/ganlvtech'
+        credit: 'github.com/lrya'
     });
 </script>
 ```
