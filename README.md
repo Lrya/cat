@@ -1,6 +1,6 @@
 # 捉住小猫
 
-[开始游戏](http://www.hmy.tw/catch-the-cat/)
+[开始游戏](https://lrya.github.io/cat/)
 
 ## 游戏玩法
 
